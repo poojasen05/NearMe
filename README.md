@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
+## map.html
 ```
 <html>
     <head>imageapp</head>
@@ -44,7 +44,7 @@ map.html
     </body>
 </html>
 ```
-TreePark.html
+## TreePark.html
 ```
 <!DOCTYPE html>
 <html>
@@ -80,7 +80,7 @@ TreePark.html
 </body>
 </html>
 ```
-PineForest.html
+## PineForest.html
 ```
 <!DOCTYPE html>
 <html>
@@ -117,7 +117,7 @@ PineForest.html
 </html>
 
 ```
-DoddabettaPeak.html
+## DoddabettaPeak.html
 ```
 <!DOCTYPE html>
 <html>
